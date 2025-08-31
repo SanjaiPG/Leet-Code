@@ -1,1 +1,3 @@
-# These are my solutions to LeetCode questions written in C++
+# LeetCode Solutions
+
+**Just get it done.**  
