@@ -1,3 +1,3 @@
 # LeetCode Solutions
 
-**Just get it done.**  
+**Getting it done.**  
